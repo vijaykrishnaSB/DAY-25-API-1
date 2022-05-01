@@ -1,0 +1,21 @@
+#img{
+    border-radius: 0.5rem;
+    margin-top: 3rem;   
+}
+body{
+    background-image: linear-gradient(to right top, #261333, #2c1236, #321038, #390e3a, #400a3b, #4b0b42, #560c49, #610c50, #73145f, #861d6f, #9a257f, #ae2d8f);
+    background-repeat: no-repeat;
+}
+.title_lorum{
+    text-align: center;
+    color: violet;
+    font-family: 'Cinzel', serif;
+    text-transform: uppercase;
+}
+.search_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
